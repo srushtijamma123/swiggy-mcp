@@ -1,1 +1,23 @@
-# swiggy-mcp
+---
+## 📁🎋 Project Structure# 🍔🍕🛵Swiggy-MCP (Model Context Protocol Server)
+
+Swiggy-MCP is a lightweight *FastMCP-based server* that exposes tools for customers, restaurants, and orders; and resources for refund policy and complaint resolution.  
+It helps demonstrate how MCP (Model Context Protocol) can be used to power AI agents, automation workflows, and LLM integrations.
+
+---
+
+## 🚀 Features
+
+- ✔ FastMCP server implementation  
+- ✔ Tools for:
+  - get_customer_summary
+  - get_order_information
+  - get_restaurant_information
+- ✔ Resources:
+  - refund_policy
+  - get_complaint_resolution 
+- ✔ Simple JSON-based datas 
+- ✔ Clean module structure  
+- ✔ Easy to extend with your own tools 
+
+---
